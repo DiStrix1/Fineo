@@ -58,7 +58,7 @@ Fineo-Blockchain-Based-WebApp/
 ### 🔧 Clone the Repository
 
 ```bash
-git clone https://github.com/Zian-Surani/Fineo-Blochchain-Based-WebApp.git
+git clone https://github.com/DiStrix1/Fineo-Blochchain-Based-WebApp.git
 cd Fineo-Blochchain-Based-WebApp
 ```
 
@@ -102,8 +102,8 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-**Zian Rajeshkumar Surani**  
-Founder | Developer | AI & Blockchain Enthusiast
+**Dishu Mahajan**  
+Founder | Developer | AIML Enthusiast
 
 ---
 
